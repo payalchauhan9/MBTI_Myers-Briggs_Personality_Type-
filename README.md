@@ -49,6 +49,7 @@ From various classification algorithm I have implemented the following one:
 • XGBoost Classifier
 
 *📈 Key Insights*
+
 •Certain words and phrases were strong indicators of specific personality types (e.g., emotional vs. logical words).
 
 •Achieved ~54% accuracy in predicting the broader personality traits (e.g., Introvert vs. Extrovert).
@@ -56,6 +57,7 @@ From various classification algorithm I have implemented the following one:
 •Found that word choice and sentence structure varied significantly across personality groups.
 
 *📊 Impact / Outcome *
+
 •Demonstrated how personality insights can be extracted from unstructured text data, with applications in HR tech, mental health, and personalized marketing.
 
 •Strengthened understanding of NLP pipelines and classification workflows.
