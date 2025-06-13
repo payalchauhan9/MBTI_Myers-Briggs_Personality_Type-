@@ -18,7 +18,7 @@ The dataset is taken from kaggle. The dataset contains 2 columns and 8675 record
 
 •Techniques: NLP (text preprocessing, TF-IDF, word embeddings), classification (Logistic Regression, Random Forest, SVM), data visualization
 
-•Model Evaluation: Accuracy, F1 Score, Confusion Matrix
+•Model Evaluation: Accuracy, F1 Score
 
 *Preprocessing*
 
