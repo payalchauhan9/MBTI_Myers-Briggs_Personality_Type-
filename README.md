@@ -1,4 +1,4 @@
-**MBTI PERSONALITY PREDICITION**
+**MYERS-BRIGGS PERSONALITY TYPE PREDICTION USING NLP & MACHINE LEARNING**
 
 ![Screenshot 2024-10-14 205105](https://github.com/user-attachments/assets/05550b36-77a6-4945-b0cb-5f259d426223)
 
@@ -9,6 +9,16 @@ MBTI stands for Myers-Briggs Type Indicator, a personality test that classifies 
 *Dataset Description*
 
 The dataset is taken from kaggle. The dataset contains 2 columns and 8675 records.It contains features like type, post. There are 16 unique labels in column ‘type’ with no null values, each representing 16 MBTI type indicators. Also the post column has paragraphs which requires natural language processing to perform model training.
+
+*🧰 Tools & Technologies*
+
+•Languages: Python
+
+•Libraries: Scikit-learn, Pandas, NumPy, NLTK, spaCy
+
+•Techniques: NLP (text preprocessing, TF-IDF, word embeddings), classification (Logistic Regression, Random Forest, SVM), data visualization
+
+•Model Evaluation: Accuracy, F1 Score, Confusion Matrix
 
 *Preprocessing*
 
@@ -38,5 +48,18 @@ From various classification algorithm I have implemented the following one:
 
 • XGBoost Classifier
 
+*📈 Key Insights*
+•Certain words and phrases were strong indicators of specific personality types (e.g., emotional vs. logical words).
+
+•Achieved ~54% accuracy in predicting the broader personality traits (e.g., Introvert vs. Extrovert).
+
+•Found that word choice and sentence structure varied significantly across personality groups.
+
+*📊 Impact / Outcome *
+•Demonstrated how personality insights can be extracted from unstructured text data, with applications in HR tech, mental health, and personalized marketing.
+
+•Strengthened understanding of NLP pipelines and classification workflows.
+
+•Gained practical experience in building models for psychological or behavioral prediction.
 
 
